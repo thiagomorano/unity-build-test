@@ -1,0 +1,2 @@
+[start]
+cmd = "./Build/Server/unity-test.x86_64 -batchmode -nographics"
